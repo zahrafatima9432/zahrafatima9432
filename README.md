@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Zahra 👋
 
-<!--
-**zahrafatima9432/zahrafatima9432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer based in Islamabad, focused on **GenAI, LLMs, and agentic systems**.
 
-Here are some ideas to get you started:
+I build multi-agent workflows, retrieval pipelines, and the tooling around them — and I care about writing code that's readable, tested, and documented well enough that someone else can pick it up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Currently:** AI/ML Engineer at Darkthorn Labs, working on NLP systems, scalable ML workflows, and intelligent AI pipelines.
+
+---
+
+### What I'm building
+
+- **[code-review-crew](https://github.com/zahrafatima9432/code-review-crew)** — a multi-agent code-review system in LangGraph. A planner, three specialist agents, and a lead reviewer coordinate through shared state, with a conditional feedback loop that sends work back for another pass.
+- **[mcp-toolbox](https://github.com/zahrafatima9432/mcp-toolbox)** — a from-scratch Model Context Protocol server + client: a document store, web search, and calculator, plus a dual-mode client agent.
+
+More on the way — production-style RAG, an LLM evaluation harness, and fine-tuning experiments.
+
+---
+
+### Tools I work with
+
+Python · PyTorch · LangGraph · LangChain · MCP · RAG · Hugging Face · Docker
+
+---
+
+### Reach me
+
+- Email: zahra.fatima9432@gmail.com
+<!-- Add your LinkedIn once you're ready:
+- LinkedIn: https://www.linkedin.com/in/your-handle
 -->
