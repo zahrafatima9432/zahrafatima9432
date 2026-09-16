@@ -8,7 +8,7 @@ I build multi-agent workflows, retrieval pipelines, and the tooling around them 
 
 ---
 
-### What I'm building
+### Projects
 
 - **[code-review-crew](https://github.com/zahrafatima9432/code-review-crew)** — a multi-agent code-review system in LangGraph. A planner, three specialist agents, and a lead reviewer coordinate through shared state, with a conditional feedback loop that sends work back for another pass.
 - **[mcp-toolbox](https://github.com/zahrafatima9432/mcp-toolbox)** — a from scratch Model Context Protocol server + client: a document store, web search, and calculator, plus a dual-mode client agent.
